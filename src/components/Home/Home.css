@@ -1,0 +1,16 @@
+nav {
+  background-color: #ffffff;
+  color: black;
+}
+
+#nav-mobile {
+  margin-right: 20%;
+}
+
+.booking,
+.pay_rent,
+.property,
+.signup,
+.login {
+  margin-right: 40px;
+}
